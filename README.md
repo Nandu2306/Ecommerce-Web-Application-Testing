@@ -1,6 +1,5 @@
 # Ecommerce-Web-Application-Testing
 Manual Testing, SQL Testing and Selenium Automation Testing using Python and Pytest.
-# E-Commerce Web Application Testing
 
 ## Project Overview
 This project demonstrates manual testing, SQL testing, and Selenium automation testing of the SauceDemo e-commerce web application.
