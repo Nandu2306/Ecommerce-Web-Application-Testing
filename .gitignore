@@ -1,0 +1,17 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Temporary Excel files
+~$*.xlsx
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE files
+.vscode/
